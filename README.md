@@ -1,2 +1,8 @@
-## sawby
-<p>uhh hi i'm sawby! i'm 16 and i like to animate/make music. i like coding too but i'm still not great at it yet LOL</p>
+# sawby
+
+## hi
+<p>uhh hi, i'm sawby! i like animating and making music, and i code stuff in love2d sometimes, too!</p>
+
+## links
+[YouTube](https://github.com/sawby08/) </br>
+[Bluesky](https://bsky.app/profile/sawby08.itch.io) </br>
