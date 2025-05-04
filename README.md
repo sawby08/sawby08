@@ -1,8 +1,9 @@
-# sawby
+# Sawby
 
-## hi
-<p>uhh hi, i'm sawby! i like animating and making music, and i code stuff in love2d sometimes, too!</p>
+## Hello!
+<p>Hi, I'm Sawby! I mostly animate, but I make video game music and program video games, too.</p>
 
-## links
-[youtube](https://youtube.com/@sawby08/) </br>
-[bluesky](https://bsky.app/profile/sawby08.itch.io) </br>
+## You can find me on:
+[YouTube](https://youtube.com/@sawby08/) </br>
+[Bluesky](https://bsky.app/profile/sawby08.itch.io) </br>
+[SoundCloud](https://soundcloud.com/sawby08) </br>
