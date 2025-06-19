@@ -7,3 +7,4 @@
 ## You can find me on:
 [YouTube](https://youtube.com/@sawby08/) </br>
 [SoundCloud](https://soundcloud.com/sawby08) </br>
+Discord: sawby08
