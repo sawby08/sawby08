@@ -1,9 +1,22 @@
 # Sawby guy
 
-### hi
-<p>hi i'm sawby! i'm 16 and i like doing video game programming and animation</p>
+### hi!
+hi, i'm sawby! i'm a 16-year-old who likes to code video games and animate!
+
+[![Godot](godot.png)](https://godotengine.org/) [![LOVE](love.png)](https://love2d.org/)
+
+##
 
 ### where i'm at
-<p>i'm most active on discord! (sawby08) feel free to add me if you need something or if you just want to talk. additionally, i'm also on youtube, soundcloud, itch, and gamejolt under the same username!</p>
+i'm most active on [discord](https://discord.com/users/1183278132032176128), but you can also find me on [youtube](https://www.youtube.com/@sawby08), [twitter](https://x.com/sawby08), [itch](https://sawby08.itch.io/), and [gamejolt](https://gamejolt.com/@sawby08)! dms are open on discord in case you want to ask me something.
 
-![banana](banana.png)
+##
+
+### stuff i made
+i made [lovetale](https://github.com/sawby08/lovetale), an undertale battle engine made in love2d!
+
+that's the only big thing, though. everything else on my page are smaller projects that i put less time into. feel free to have a look around, though!
+
+##
+
+![spongebob](spongebob.gif)
