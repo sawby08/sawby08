@@ -16,7 +16,7 @@ i'm most active on [discord](https://discord.com/users/1183278132032176128), but
 i made [lovetale](https://github.com/sawby08/lovetale), an undertale battle engine made in love2d!
 <br>i also coded and made music for my friend's game, [from now on](https://gamejolt.com/games/korekara/1004770)!
 
-that's the only big thing, though. everything else on my page are smaller projects that i put less time into. feel free to have a look around, though!
+that's it, though. everything else on my page are smaller projects that i put less time into. feel free to have a look around, though!
 
 ##
 
